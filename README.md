@@ -3,6 +3,8 @@
 - Firmware source code (.txt) for the ATtiny10 (digital circuit)
 - Precompiled .HEX files
 - .STL files for 3D printing
+- Gerber files for PCB ordering (planned)
+- Files for home PCB etching (planned)
 
 ## HEX files
 M19B is the digital circuit powered through a DC-DC converter, M19C is the digital circuit powered through a linear voltage regulator.
@@ -17,4 +19,4 @@ M19B is the digital circuit powered through a DC-DC converter, M19C is the digit
 For a 9 V battery with an older 78L05-type regulator, use `M19C_78L05.hex` instead.
 
 ## Warning
-High voltage (about 19 kV) can cause injury. This is not a guide. The firmware and the .STL files are shared as is, without any warranty; incorrect settings can damage image converter tubes or other equipment. See the document for the full terms of use.
+High voltage (about 19 kV) can cause injury. This is not a guide. The firmware, gerber files (planned), files for home PCB etching (planned) and the .STL files are shared as is, without any warranty; incorrect settings can damage image converter tubes or other equipment. See the document for the full terms of use.
