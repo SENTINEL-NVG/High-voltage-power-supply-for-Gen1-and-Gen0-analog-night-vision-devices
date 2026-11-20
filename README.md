@@ -5,7 +5,7 @@
 - .STL files for 3D printing
 
 ## HEX files
-M19B is the digital circuit powered through the DC-DC converter, M19C is the digital circuit powered through a linear voltage regulator.
+M19B is the digital circuit powered through a DC-DC converter, M19C is the digital circuit powered through a linear voltage regulator.
 
 | File | Supply | Low-voltage cut-off |
 |---|---|---|
